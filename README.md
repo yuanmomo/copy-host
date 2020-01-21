@@ -39,7 +39,7 @@ Copy Host is available on [Chrome Web Store](https://chrome.google.com/webstore/
 
 ### Todo
 
-* Configurable Keyboard Shortcut
+* Configurable Keyboard Shortcut:[https://developer.chrome.com/apps/commands](https://developer.chrome.com/apps/commands)
 * Option to Disable Popup 
 
 ### Issues
